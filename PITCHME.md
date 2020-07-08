@@ -18,7 +18,9 @@
 
 +++
 
-In recent years the topic of humanitarian leadership has been the subject of increased attention. There has been a widely held view amongst humanitarian policy makers and practitioners that humanitarian responses are often poor or inadequate, and that ineffective leadership is frequently to blame.  
+In recent years the topic of humanitarian leadership has been the subject of increased attention.  
+
+There has been a widely held view amongst humanitarian policy makers and practitioners that humanitarian responses are often poor or inadequate, and that ineffective leadership is frequently to blame.  
 
 +++
 
