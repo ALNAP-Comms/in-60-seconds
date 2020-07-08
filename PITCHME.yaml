@@ -14,7 +14,7 @@ theme-text       : [ "Helvetica", "#FFFFFF", "none", "#A0C865", "100", "100", "1
 theme-links      : [ "#F1C40F", "#5254F7" ]
 theme-code       : [ "Source Code Pro", "100", "120" ]
 theme-controls   : [ "#C0C0C0" ]
-theme-margins    : [ "15px", "15px" ]
+theme-margins    : [ "20px", "20px" ]
 layout           : left
 
 #
