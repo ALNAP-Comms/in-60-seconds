@@ -24,7 +24,9 @@ Click the right arrow or use your right arrow key to continue.
 
 ---
 
-### Why focus on humanitarian leadership?
+### Why focus on humanitarian leadership?  
+  
+Click down to continue reading.
 
 +++
 
