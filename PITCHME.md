@@ -2,11 +2,16 @@
 
 ---
 
-### Add Some Slide Candy
+### Learning objectives
+@ul[list-spaced-bullets text-09]
+•	Define operational humanitarian leadership in terms of vision, strategy and implementation
+•	Explain that leadership comprises three elements:
+1.	The individual leader
+2.	The leadership team
+3.	Organisational structures and procedures
+•	List the conditions under which leadership is most effective, and reflect on your own organisation’s progress in creating those conditions
 
-![IMAGE](assets/img/presentation.png)
-
----?color=linear-gradient(180deg, white 75%, black 25%)
+---?color=linear-gradient(180deg, white 75%, green 25%)
 @title[Customize Slide Layout]
 
 @snap[west span-55]
