@@ -14,7 +14,10 @@
 
 ---
 
-### Test
+### Why focus on humanitarian leadership?  
+In recent years the topic of humanitarian leadership has been the subject of increased attention. There has been a widely held view amongst humanitarian policy makers and practitioners that humanitarian responses are often poor or inadequate, and that ineffective leadership is frequently to blame.  
+ALNAP’s research, and this workbook, focus on how humanitarian leadership can be most effective and, in turn, positively impact humanitarian response. 
+
 
 ---
 
