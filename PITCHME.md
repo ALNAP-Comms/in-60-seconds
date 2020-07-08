@@ -39,7 +39,12 @@ ALNAP’s research, and this workbook, focus on how humanitarian leadership can 
 
 ### Defining operational humanitarian leadership?  
   
+  
 Operational humanitarian leadership is about being responsible for a specific humanitarian response – making decisions that affect the design and implementation of a country or regional programme.
+
++++
+
+It’s not about ‘one-off’ decisions made on technical issues by HQ units, or about decisions regarding overall organisational policy and strategy. Instead, it is about the day-to-day decisions that operational leaders make, trying to deliver the most effective humanitarian response, on the ground.
 
 ---?color=linear-gradient(180deg, white 75%, green 25%)
 @title[Customize Slide Layout]
