@@ -7,9 +7,9 @@
 - Define operational humanitarian leadership in terms of vision, strategy and implementation  
   
 - Explain that leadership comprises three elements:
-1.	The individual leader
-2.	The leadership team
-3.	Organisational structures and procedures  
+The individual leader
+The leadership team
+Organisational structures and procedures  
   
 - List the conditions under which leadership is most effective, and reflect on your own organisation’s progress in creating those conditions.
 
