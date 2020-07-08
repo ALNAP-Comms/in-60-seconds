@@ -56,10 +56,7 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 Let your code do the talking!
 @snapend
 
-```sql zoom-18
-ADD CONSTRAINT forum_id
-REFERENCES "forum" ("id");
-```
+![Video](https://www.youtube.com/watch?v=1U2gngDxFkc)
 
 @snap[south span-100 text-gray text-08]
 @[1-5](You can step-and-ZOOM into fenced-code blocks, source files, and Github GIST.)
