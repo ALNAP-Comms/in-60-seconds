@@ -3,11 +3,11 @@
 ---
 
 ### Learning objectives
-@ul[list-spaced-bullets text-05]
+@ul[list-spaced-bullets text-09]
 - Define operational humanitarian leadership in terms of vision, strategy and implementation  
   
 - Explain that leadership comprises three elements:
-    1.	The individual leade
+    1.	The individual leader
     2.	The leadership team
     3.	Organisational structures and procedures  
   
