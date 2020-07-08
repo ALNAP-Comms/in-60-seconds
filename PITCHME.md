@@ -30,7 +30,7 @@ Click the right arrow or use your right arrow key to continue.
   
   
 
-#### Click down to continue reading.
+##### Click down to continue reading.
 
 +++
 
