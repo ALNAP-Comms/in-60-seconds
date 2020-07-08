@@ -64,12 +64,22 @@ It’s not about ‘one-off’ decisions made on technical issues by HQ units, o
 
 ---
 
-### Click down for a full definition. Does it match your experience?
+### Click down for a full definition.  
+  
+### Does it match your experience?
 
 
 +++
 
 Operational humanitarian leadership is the function of providing a clear vision and objectives for the humanitarian response; building a consensus that brings aid workers together around that vision and objectives; and finding ways of collectively realising the vision for the benefit of the affected population, often in challenging and hostile environments.
+
+---
+
+This definition emphasises three things:
+1.	The identification of a vision and objectives; 
+2.	Building consensus about how to achieve that vision (strategy and planning); and 
+3.	The successful implementation of the plan.
+
 
 ---?color=linear-gradient(180deg, white 75%, green 25%)
 @title[Customize Slide Layout]
