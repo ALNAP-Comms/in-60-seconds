@@ -73,7 +73,6 @@ Let your code do the talking!
 @snapend
 
 @snap[south-east span-50 text-center text-06]
-[Download GitPitch Desktop @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
+---?survey=https://www.surveymonkey.co.uk/r/2HHZNCC
 @snapend
 
----?survey=https://www.surveymonkey.co.uk/r/2HHZNCC
