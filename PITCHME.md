@@ -1,4 +1,4 @@
-# Leadership **Workbook**
+# **Leadership Workbook**
 
 ---
 
