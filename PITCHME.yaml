@@ -9,7 +9,7 @@ theme            : template
 
 theme-background : [ "#00666B" ]
 theme-headline   : [ "Helvetica", "#FBD95E", "none", "#FFFFFF", "100", "120", "15" ]
-theme-byline     : [ "Helvetica", "#FFFFFF", "none", "#A0C865", "100", "110", "15" ]
+theme-byline     : [ "Helvetica", "#FFFFFF", "none", "#FBD95E", "100", "110", "15" ]
 theme-text       : [ "Helvetica", "#FFFFFF", "none", "#A0C865", "80", "140", "15" ]
 theme-links      : [ "#F1C40F", "#5254F7" ]
 theme-code       : [ "Source Code Pro", "100", "120" ]
