@@ -82,7 +82,6 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 
 @snap[north-west span-50 text-center]
 #### Engage your Audience
----?survey=https://www.surveymonkey.co.uk/r/2HHZNCC
 @snapend
 
 @snap[west span-55]
