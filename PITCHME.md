@@ -80,6 +80,11 @@ This definition emphasises three things:
 2.	Building consensus about how to achieve that vision (strategy and planning); and 
 3.	The successful implementation of the plan.
 
+---
+
+### Exercise 2.2
+
+
 
 ---?color=linear-gradient(180deg, white 75%, green 25%)
 @title[Customize Slide Layout]
