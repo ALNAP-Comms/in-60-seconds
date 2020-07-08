@@ -8,7 +8,7 @@
 theme            : template
 
 theme-background : [ "#00666B" ]
-theme-headline   : [ "Helvetica", "#FBD95E", "none", "#FFFFFF", "120", "10", "15" ]
+theme-headline   : [ "Helvetica", "#FBD95E", "none", "#FFFFFF", "120", "120", "100" ]
 theme-byline     : [ "Helvetica", "#FFFFFF", "none", "#FBD95E", "100", "110", "15" ]
 theme-text       : [ "Helvetica", "#FFFFFF", "none", "#A0C865", "80", "140", "15" ]
 theme-links      : [ "#F1C40F", "#5254F7" ]
