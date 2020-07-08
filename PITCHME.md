@@ -2,11 +2,13 @@
 
 ---
 
-## How to navigate this workbook  
+### How to navigate this workbook  
 
 The navigation arrows at the bottom right of your screen are there to lead you through the session. In the example below, the left faded arrow indicates completed pages whereas both the down arrow and right arrow indicate pages you have yet to visit.
+  
+![alt-title](https://ocha-dap.github.io/quick-tips-for-visualising-data/pics/nav_arrows.png)
 
-
+Click the right arrow or use your right arrow key to continue.
 
 ---
 
