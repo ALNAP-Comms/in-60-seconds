@@ -62,6 +62,15 @@ Operational humanitarian leadership is about being responsible for a specific hu
 
 It’s not about ‘one-off’ decisions made on technical issues by HQ units, or about decisions regarding overall organisational policy and strategy. Instead, it is about the day-to-day decisions that operational leaders make, trying to deliver the most effective humanitarian response, on the ground.
 
+---
+
+### Click down for a full definition. Does it match your experience?
+
+
++++
+
+Operational humanitarian leadership is the function of providing a clear vision and objectives for the humanitarian response; building a consensus that brings aid workers together around that vision and objectives; and finding ways of collectively realising the vision for the benefit of the affected population, often in challenging and hostile environments.
+
 ---?color=linear-gradient(180deg, white 75%, green 25%)
 @title[Customize Slide Layout]
 
