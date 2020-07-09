@@ -92,7 +92,8 @@ Operational humanitarian leadership is the function of providing a clear vision 
 
 ---
 
-This definition emphasises three things:
+### This definition emphasises three things:
+<br>
 1.	The identification of a vision and objectives; 
 2.	Building consensus about how to achieve that vision (strategy and planning); and 
 3.	The successful implementation of the plan.
