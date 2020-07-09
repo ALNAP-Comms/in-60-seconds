@@ -87,23 +87,28 @@ Instead, it is about the day-to-day decisions that operational leaders make, try
 ### Does it match your experience?
 
 
-+++?.text-orange
++++
 
 Operational humanitarian leadership is the function of providing a clear vision and objectives for the humanitarian response; building a consensus that brings aid workers together around that vision and objectives; and finding ways of collectively realising the vision for the benefit of the affected population, often in challenging and hostile environments.
 
 ---
 
-### This definition emphasises three things:
+### This definition emphasises 3 things:
 <br>
 1.	The identification of a vision and objectives; 
 2.	Building consensus about how to achieve that vision (strategy and planning); and 
 3.	The successful implementation of the plan.
 
----
+---?color=linear-gradient(180deg, #00666B 65%, #00655B 35%)
 
 ### Exercise 2.2
 
+@snap[south span-100]
+Click down to start the exercise.
+You can press 'print' for a copy of your answers, or create a profile and save and return to your answers via this deck.
+@snapend
 
++++
 
 
 
