@@ -48,7 +48,7 @@ There has been a widely held view amongst humanitarian policy makers and practit
 ALNAP’s research, and this workbook, focus on how humanitarian leadership can be most effective and, in turn, positively impact humanitarian response.
 
 
----?color=linear-gradient(180deg, #00666B 50%, #00655B 50%)
+---?color=linear-gradient(180deg, #00666B 65%, #00655B 35%)
 
 
 ### Exercise 2.1
@@ -60,7 +60,7 @@ You can press 'print' for a copy of your answers, or create a profile and save a
 
 +++?survey=https://form.jotform.com/201894153749060
 
----
+---?color=linear-gradient(180deg, #00666B 50%, #00655B 50%)
 
 
 ### Defining operational humanitarian leadership?  
@@ -73,7 +73,8 @@ Operational humanitarian leadership is about being responsible for a specific hu
 +++
 
 It’s not about ‘one-off’ decisions made on technical issues by HQ units, or about decisions regarding overall organisational policy and strategy. 
-<br>
+<br>  
+<br>  
 Instead, it is about the day-to-day decisions that operational leaders make, trying to deliver the most effective humanitarian response, on the ground.
 
 ---?color=linear-gradient(180deg, #00666B 50%, #00655B 50%)
@@ -86,7 +87,7 @@ Instead, it is about the day-to-day decisions that operational leaders make, try
 ### Does it match your experience?
 
 
-+++
++++?.text-orange
 
 Operational humanitarian leadership is the function of providing a clear vision and objectives for the humanitarian response; building a consensus that brings aid workers together around that vision and objectives; and finding ways of collectively realising the vision for the benefit of the affected population, often in challenging and hostile environments.
 
