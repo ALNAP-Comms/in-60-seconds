@@ -22,7 +22,7 @@ Click the right arrow or use your right arrow key to continue.
   
 3. List the conditions under which leadership is most effective, and reflect on your own organisation’s progress in creating those conditions.
 
----?color=linear-gradient(180deg, #00666B 75%, black 25%)
+---?color=linear-gradient(180deg, #00666B 75%, #00522B 25%)
 
 ### Why focus on humanitarian leadership?  
   
@@ -65,17 +65,24 @@ You can press 'print' for a copy of your answers, or create a profile and save a
 
 ### Defining operational humanitarian leadership?  
   
-  
+<br>
+<br>
+
 Operational humanitarian leadership is about being responsible for a specific humanitarian response – making decisions that affect the design and implementation of a country or regional programme.
 
 +++
 
-It’s not about ‘one-off’ decisions made on technical issues by HQ units, or about decisions regarding overall organisational policy and strategy. Instead, it is about the day-to-day decisions that operational leaders make, trying to deliver the most effective humanitarian response, on the ground.
+It’s not about ‘one-off’ decisions made on technical issues by HQ units, or about decisions regarding overall organisational policy and strategy. 
+<br>
+Instead, it is about the day-to-day decisions that operational leaders make, trying to deliver the most effective humanitarian response, on the ground.
 
 ---
 
 ### Click down for a full definition.  
-  
+
+<br>  
+<br>
+
 ### Does it match your experience?
 
 
