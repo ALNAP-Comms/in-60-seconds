@@ -22,7 +22,7 @@ Click the right arrow or use your right arrow key to continue.
   
 3. List the conditions under which leadership is most effective, and reflect on your own organisation’s progress in creating those conditions.
 
----?color=linear-gradient(180deg, black 25%)
+---?color=linear-gradient(180deg, "#FBD95E" 75%, black 25%)
 
 ### Why focus on humanitarian leadership?  
   
