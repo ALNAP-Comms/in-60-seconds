@@ -48,7 +48,7 @@ There has been a widely held view amongst humanitarian policy makers and practit
 ALNAP’s research, and this workbook, focus on how humanitarian leadership can be most effective and, in turn, positively impact humanitarian response.
 
 
----
+---?color=linear-gradient(180deg, #00666B 50%, #00522B 50%)
 
 
 ### Exercise 2.1
@@ -76,7 +76,7 @@ It’s not about ‘one-off’ decisions made on technical issues by HQ units, o
 <br>
 Instead, it is about the day-to-day decisions that operational leaders make, trying to deliver the most effective humanitarian response, on the ground.
 
----
+---?color=linear-gradient(180deg, #00666B 50%, #00522B 50%)
 
 ### Click down for a full definition.  
 
