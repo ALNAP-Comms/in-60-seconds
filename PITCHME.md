@@ -32,11 +32,11 @@ Click the right arrow or use your right arrow key to continue.
 Click down to continue reading.
 @snapend
 
-+++
-@snap[north span-300]
++++?color=linear-gradient(180deg, #00666B 50%, black 50%)
+
 In recent years the topic of humanitarian leadership has been the subject of increased attention.  
-@snapend
-  
+
+
 There has been a widely held view amongst humanitarian policy makers and practitioners that humanitarian responses are often poor or inadequate, and that ineffective leadership is frequently to blame.  
 
 +++
