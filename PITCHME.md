@@ -22,7 +22,7 @@ Click the right arrow or use your right arrow key to continue.
   
 3. List the conditions under which leadership is most effective, and reflect on your own organisation’s progress in creating those conditions.
 
----?color=linear-gradient(180deg, #00666B 75%, #00522B 25%)
+---?color=linear-gradient(180deg, #00666B 75%, #00655B 25%)
 
 ### Why focus on humanitarian leadership?  
   
@@ -32,7 +32,7 @@ Click the right arrow or use your right arrow key to continue.
 Click down to continue reading.
 @snapend
 
-+++?color=linear-gradient(180deg, #00666B 50%, #00522B 50%)
++++?color=linear-gradient(180deg, #00666B 50%, #00655B 50%)
 <br>
 In recent years the topic of humanitarian leadership has been the subject of increased attention.      
 
@@ -48,7 +48,7 @@ There has been a widely held view amongst humanitarian policy makers and practit
 ALNAP’s research, and this workbook, focus on how humanitarian leadership can be most effective and, in turn, positively impact humanitarian response.
 
 
----?color=linear-gradient(180deg, #00666B 50%, #00522B 50%)
+---?color=linear-gradient(180deg, #00666B 50%, #00655B 50%)
 
 
 ### Exercise 2.1
@@ -76,7 +76,7 @@ It’s not about ‘one-off’ decisions made on technical issues by HQ units, o
 <br>
 Instead, it is about the day-to-day decisions that operational leaders make, trying to deliver the most effective humanitarian response, on the ground.
 
----?color=linear-gradient(180deg, #00666B 50%, #00522B 50%)
+---?color=linear-gradient(180deg, #00666B 50%, #00655B 50%)
 
 ### Click down for a full definition.  
 
