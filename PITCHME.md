@@ -32,7 +32,7 @@ Click the right arrow or use your right arrow key to continue.
 Click down to continue reading.
 @snapend
 
-+++?color=linear-gradient(180deg, #00666B 50%, 00522B 50%)
++++?color=linear-gradient(180deg, #00666B 50%, #00522B 50%)
 <br>
 In recent years the topic of humanitarian leadership has been the subject of increased attention.      
 
