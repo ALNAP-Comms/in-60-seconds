@@ -115,11 +115,14 @@ You can press 'print' for a copy of your answers, or create a profile and save a
 ---
 
 ### Rethinking operational humanitarian leadership
-  
+
+---  
 In humanitarian work, there has been an assumption that these three functions of leadership – the creation of a vision, the design of a strategy and the implementation of this strategy – will be conducted by a single individual, i.e. the leader.  
-  
+
+---
 This leader is usually accountable for the results of these actions and responsible for carrying them out. He/she is expected to create the vision and strategy and provide the energy and drive that ensures that implementation occurs.  
-  
+
+---
 In reality, it is impossible for any individual to be responsible for all elements of leadership.
 
 
