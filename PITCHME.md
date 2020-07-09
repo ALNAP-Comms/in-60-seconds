@@ -53,6 +53,11 @@ ALNAP’s research, and this workbook, focus on how humanitarian leadership can 
 
 ### Exercise 2.1
 
+@snap[south span-100]
+Click down to start the exercise.
+You can press 'print' for a copy of your answers, or create a profile and save and return to your answers via this deck.
+@snapend
+
 +++?survey=https://form.jotform.com/201894153749060
 
 ---
