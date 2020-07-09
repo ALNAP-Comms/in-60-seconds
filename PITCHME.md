@@ -33,11 +33,9 @@ Click down to continue reading.
 @snapend
 
 +++?color=linear-gradient(180deg, #00666B 50%, black 50%)
-
+<br>
 In recent years the topic of humanitarian leadership has been the subject of increased attention.      
 
-     
-    
 <br>
 <br>
 <br>
