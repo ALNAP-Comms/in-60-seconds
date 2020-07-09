@@ -33,7 +33,7 @@ Click down to continue reading.
 @snapend
 
 +++
-@snap[north span-100]
+@snap[north span-300]
 In recent years the topic of humanitarian leadership has been the subject of increased attention.  
 @snapend
   
